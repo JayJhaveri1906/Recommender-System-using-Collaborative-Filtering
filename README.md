@@ -18,3 +18,5 @@
 3) HW3 (8/8): Weather a book has been read or not prediction, Rating Prediction based on Collaborative filtering on common users and items(books).
 
 4) HW4 (8/8): Text Mining using Ngram and TF-IDF, Collaborative Filtering (Similarity prediction) using the Word2Vec library.
+
+5) Final Project and Report: Based on the learnings of this class, created a mini project on the Steam Reviews dataset. Further Explaination and code [here](https://github.com/JayJhaveri1906/Collaborative-Filtering-Book-Recommendation)
